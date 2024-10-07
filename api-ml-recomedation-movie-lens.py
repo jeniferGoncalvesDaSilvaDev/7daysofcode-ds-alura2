@@ -1,3 +1,4 @@
+#!pip install surprise
 #!pip install fastapi
 from fastapi import FastAPI
 import pickle
